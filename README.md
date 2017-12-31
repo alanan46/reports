@@ -11,7 +11,7 @@ broken sentence could be : hll,hw re o
 https://github.com/salman306/appliedML2
 
 ### Modified MNIST: 
-Given an image consists of two single digits and a plus sign ($\plus$) or a multiplication sign($\times$)
+Given an image consists of two single digits and a plus sign (➕) or a multiplication sign(✖️)
 predict the outcome of the arithmetic operation entailed by the picture.
 https://github.com/alanan46/Modified-_MNIST/
 
