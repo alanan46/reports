@@ -4,7 +4,7 @@ This repo provides the links to four machine leanring projects as well as the re
 ### Chinese Corpus
 https://github.com/alanan46/chineseCorpus
 
-### language classification:
+### Language cClassification:
 Given a broken sentence,predict in which language (out of 5) it is written.
 For example, if the sentence is : hello, how are you?
 broken sentence could be : hll,hw re o
